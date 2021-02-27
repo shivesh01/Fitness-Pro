@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383442502911",
+    "firebase_url": "https://bluesky-3d257.firebaseio.com",
+    "project_id": "bluesky-3d257",
+    "storage_bucket": "bluesky-3d257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383442502911:android:96dac1fcd9f146388cf8ca",
+        "android_client_info": {
+          "package_name": "com.example.fitnesspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383442502911-kd70105derllh7vgem3uk9recsf2vi4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIrBmOCH8VfdAcU4oo7anVddzGwzn5HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383442502911-kd70105derllh7vgem3uk9recsf2vi4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
